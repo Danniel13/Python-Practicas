@@ -11,15 +11,4 @@ while true:
     utime.sleep(5)
     verde.off()
     Amarillo.on()
-    rojo.off()
-    untime.sleep(3)
-    verde.off()
-    Anarillo.off()
-    rojo.on()
-    untime.sleep(5)
-    verde.off()
-    Amarillo.on()
-    rojo.on()
-    untime.sleep(2)
-    
     
